@@ -131,6 +131,10 @@ Pillow
 
 ---
 
+<img width="517" height="909" alt="image" src="https://github.com/user-attachments/assets/9c94f02b-119d-4b2f-b8f7-97f6591e038c" />
+
+---
+
 ## 👨‍⚕️ Author
 
 **Developed by:** [Satyajit Kumar Khawas]
